@@ -1,4 +1,4 @@
-public abstract class Equipment {
+public abstract class Equipment implements Assets{
     protected int purchasePrice;
 
     public Equipment(int purchasePrice) {
