@@ -15,8 +15,6 @@ public class Trainer {
         train(new Duck());
         // train(new Parrot());
 
-        Animal a2 = new Animal();
-        Bird b2 = new Bird();
 
     }
 
